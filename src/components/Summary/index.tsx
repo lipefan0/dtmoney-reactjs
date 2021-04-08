@@ -1,4 +1,5 @@
-import { Container } from './style'
+import { Container } from './style';
+
 
 import incomeImg from '../../assets/income.svg'
 import outcomeImg from '../../assets/outcome.svg'
